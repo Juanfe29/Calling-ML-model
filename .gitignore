@@ -1,0 +1,20 @@
+# Dataset files
+*.csv
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+
+# macOS
+.DS_Store
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Local context files
+context_extracted.txt
+read_xlsx_text.py
